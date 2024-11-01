@@ -1,0 +1,25 @@
+[debug] [2024-11-01T16:31:37.183Z] ----------------------------------------------------------------------
+[debug] [2024-11-01T16:31:37.191Z] Command:       /Users/julianaderer/.nvm/versions/node/v20.13.1/bin/node /Users/julianaderer/.nvm/versions/node/v20.13.1/bin/firebase init
+[debug] [2024-11-01T16:31:37.191Z] CLI Version:   13.23.1
+[debug] [2024-11-01T16:31:37.191Z] Platform:      darwin
+[debug] [2024-11-01T16:31:37.191Z] Node Version:  v20.13.1
+[debug] [2024-11-01T16:31:37.191Z] Time:          Fri Nov 01 2024 17:31:37 GMT+0100 (Mitteleuropäische Normalzeit)
+[debug] [2024-11-01T16:31:37.191Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-11-01T16:31:37.252Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-11-01T16:31:37.253Z] > authorizing via signed-in user (julila.naderer@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/julianaderer
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
